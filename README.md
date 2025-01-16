@@ -43,6 +43,8 @@ This should now have added the extension to your browser for use!
 
 You can toggle this extension by simply activating it or deactivating it in your extension browser.
 
+**You can also now deactivate developer tools if you so choose!**
+
 ### More Help!
 
 If you need more help on this process, please visit https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
